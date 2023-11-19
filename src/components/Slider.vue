@@ -12,9 +12,10 @@
       </IonCard>   
     </IonCol>
  </IonRow>
+
 </template>
   
-  <script>
+<script>
 import { defineComponent } from "vue";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { IonContent, IonPage } from "@ionic/vue";

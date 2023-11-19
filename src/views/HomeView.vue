@@ -1,9 +1,13 @@
 <script setup>
-  import Dashboard from '../components/Dashboard.vue';
+  import Slider from '../components/Slider.vue';
+  import Kategori from '../components/Kategori.vue';
+  import Book from '../components/Book.vue';
 </script>
 
 <template>
   <main class="container">
-    <Dashboard/>
+    <Slider/>
+    <Kategori/>
+    <Book/>
   </main>
 </template>
